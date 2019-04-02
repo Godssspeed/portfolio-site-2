@@ -3451,6 +3451,7 @@ input[type="button"].small,
 
 .contact-link {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .contact-link img {
