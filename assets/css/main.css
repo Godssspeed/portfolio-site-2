@@ -3445,13 +3445,13 @@ input[type="button"].small,
 
 #footer ul {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
 }
 
 .contact-link {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .contact-link img {
